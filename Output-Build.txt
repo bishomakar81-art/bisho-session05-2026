@@ -1,0 +1,9 @@
+﻿Build started at 8:56 PM...
+1>------ Build started: Project: assignment 4, Configuration: Debug Any CPU ------
+1>  Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Users\hp\source\repos\assignment 4\assignment 4\Program.cs(2,7,2,14): warning CS8981: The type name 'program' only contains lower-cased ascii characters. Such names may become reserved for the language.
+1>C:\Users\hp\source\repos\assignment 4\assignment 4\Program.cs(70,7,70,11): warning CS8981: The type name 'book' only contains lower-cased ascii characters. Such names may become reserved for the language.
+1>C:\Users\hp\source\repos\assignment 4\assignment 4\Program.cs(72,20,72,28): warning CS0414: The field 'book.password' is assigned but its value is never used
+1>  assignment 4 -> C:\Users\hp\source\repos\assignment 4\assignment 4\bin\Debug\net10.0\assignment 4.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 8:56 PM and took 00.817 seconds ==========
